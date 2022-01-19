@@ -3,6 +3,8 @@
 #### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm Nathan, and I'm lucky enough to get to play around with computers all day long. I'm very fortunate to get paid to do what I love.
 
+⬆️ That's me.  Hanging from a tree in the Lake District, in the North of England.
+
 #### Code
 
 - 🪟 I work as an Azure SRE where I play around with Terraform, Azure DevOps pipelines, and Azure CLI
