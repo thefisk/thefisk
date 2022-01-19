@@ -1,3 +1,5 @@
+[Me, hanging from a tree!](https://raw.githubusercontent.com/thefisk/thefisk/main/justhangingaround.jpg)
+
 #### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm Nathan, and I'm lucky enough to get to play around with computers all day long. I'm very fortunate to get paid to do what I love.
 
