@@ -19,6 +19,5 @@ I have a new (as of the end of 2021) [blog](https://nathanfisk.co.uk) where I ho
 <hr>
 <p align="left">
 <a href="https://nathanfisk.co.uk" target="blank"><img align="center" src="https://raw.githubusercontent.com/thefisk/thefisk/main/www.svg" alt="My Blog" height="30" width="40" /></a> 
-<a href="https://twitter.com/thisisfisk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="My Twitter" height="30" width="40" /></a> 
   <a href="https://www.instagram.com/photography.of.fisk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="My Photography Instagram" height="30" width="40" /></a> 
 <a href="https://www.linkedin.com/in/nfisk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn" height="25" width="40" /></a>
